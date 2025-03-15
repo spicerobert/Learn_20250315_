@@ -6,7 +6,7 @@
 ### 2.4K Video Downloader v4.33.
 這款軟體可快速下載高畫質的 YouTube`影片`、`音樂`和`字幕`，並支援多種格式，適用於 HD TV、iPad、iPhone 等裝置。
 <sub>最新版本於 2024 年 12 月 31 \*日發布。</sub>
-'''SQL
+''' SQL
 BEGIN TRANSACTION;
 
 UPDATE [AS_online].[dbo].[INVTC]
